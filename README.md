@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalhando atualmente com hardware.
-- 🌱 Terminando faculdade de Ciência da Computação e em paralelo fazendo cursos de Python, Django e Machine Learning.
+- 🌱 Cursando Ciência da Computação(6/8) e em paralelo fazendo cursos de Python, Django e Machine Learning.
 
 ##
 
