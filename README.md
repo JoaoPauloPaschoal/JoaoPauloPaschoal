@@ -1,4 +1,4 @@
-### Olá, eu sou o João Paulo 👋
+### Oii, eu sou o João Paulo 👋
 
 
 
@@ -6,12 +6,22 @@
 - 🌱 Cursando Ciência da Computação(6/8) e em paralelo fazendo cursos de Python, Django e Machine Learning.
 - 📧 Contate-me: jpv_paschoal@hotmail.com
 
+<div>
+  <a href="https://linkedin.com/in/joão-paulo-paschoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-paulo-paschoal" height="30" width="40" /></a>  
+  <a href="https://instagram.com/jp.paschoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jp.paschoal" height="30" width="40" /></a>
+  <a href="https://discord.gg/xXAnorakXx#0763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xXAnorakXx#0763" height="30" width="40" /></a>
+</div>
+
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloPaschoal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloPaschoal&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/JoaoPauloPaschoal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPaulopaschoal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloPaschoal&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 
+
 <div style="display: inline_block"><br>
   <p align="left"> 
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -26,14 +36,7 @@
 </div>
   
 ##
-  
-<div>
-  <a href="https://linkedin.com/in/joão-paulo-paschoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-paulo-paschoal" height="30" width="40" /></a>  
-  <a href="https://instagram.com/jp.paschoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jp.paschoal" height="30" width="40" /></a>
-  <a href="https://discord.gg/xXAnorakXx#0763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xXAnorakXx#0763" height="30" width="40" /></a>
-</div>
 
-##
   
 ![Snake animation](https://github.com/JoaoPauloPaschoal/JoaoPauloPaschoal/blob/output/github-contribution-grid-snake.svg)  
   
