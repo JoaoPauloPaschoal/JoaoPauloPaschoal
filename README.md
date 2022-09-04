@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando atualmente com hardware.
 - 🌱 Cursando Ciência da Computação(6/8) e em paralelo fazendo cursos de Python, Django e Machine Learning.
-- Contate-me: jpv_paschoal@hotmail.com
+- 📧 Contate-me: jpv_paschoal@hotmail.com
 
 ##
 
